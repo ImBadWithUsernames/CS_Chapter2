@@ -1,0 +1,1 @@
+C:\Users\eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\HoursAndMinutes\obj\x86\Debug\HoursAndMinutes.csprojResolveAssemblyReference.cache

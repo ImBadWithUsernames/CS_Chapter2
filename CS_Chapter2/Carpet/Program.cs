@@ -13,7 +13,7 @@ namespace Carpet
             int width = 25;
             int area = length * width;
             int cost = area * 2;
-            Console.WriteLine("The cost of the carpet per square foot is {0}, and the floor is about {1} square feet.", $2, area);
+            Console.WriteLine("The cost of the carpet per square foot is {0}, and the floor is about {1} square feet, so it should cost about {2}.", 2, area, cost);
         }
     }
 }
