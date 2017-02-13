@@ -9,10 +9,10 @@ namespace HoursAndMinutes
     {
         static void Main(string[] args)
         {
-            int A = 39042043940394039404930493939403940294923;
-            int B = 3090352237205273052358027;
-            int C = A * B;
-            Console.WriteLine("{0}", C);
+            int total = 290;
+            int hours = 290 / 60;
+            int minutes = 290 - hours * 60;
+            Console.WriteLine("I worked {0} hours and {1} minutes.", hours, minutes);
         }
     }
 }
